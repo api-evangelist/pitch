@@ -1,8 +1,23 @@
 aid: pitch
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pitch.png
 name: Pitch
-description: 'Pitch is a company surfaced as a portfolio company of index-ventures and added to the API
-  Evangelist network as a stub for enrichment. Sector: business-applications. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Pitch is a collaborative presentation software company (pitch.com) that
+  builds a fast, web-based tool for teams to create, share, and present decks together
+  in real time, with templates, brand controls, live collaboration, analytics, and
+  in-product integrations. Backed by Index Ventures and tracked in the API Evangelist
+  network. As of this profile Pitch publishes no public developer API, OpenAPI specification,
+  SDK, or MCP server; enrichment here captured its published security and identity surface.'
 url: https://raw.githubusercontent.com/api-evangelist/pitch/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +27,14 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Business Applications
+- Presentations
+- Productivity
+- Collaboration
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +43,33 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://pitch.com
+  url: https://pitch.com
+- type: Support
+  url: https://help.pitch.com
+- type: Blog
+  url: https://pitch.com/blog
+- type: Pricing
+  url: https://pitch.com/pricing
+- type: StatusPage
+  url: https://status.pitch.com
+- type: PrivacyPolicy
+  url: https://pitch.com/privacy-policy
+- type: TermsOfService
+  url: https://pitch.com/terms-of-use
+- type: Security
+  url: https://pitch.com/security-disclosure-policy
+- type: VulnerabilityDisclosure
+  url: security/pitch-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/pitch-domain-security.yml
+- type: SecurityTxt
+  url: well-known/pitch-security.txt
+- type: WellKnown
+  url: well-known/pitch-well-known.yml
+- type: LLMsTxt
+  url: llms/pitch-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1

@@ -1,0 +1,24 @@
+# Pitch
+
+> Pitch is a collaborative presentation software company (pitch.com), building a web-based tool for teams to create, share, and present decks together. Pitch does not currently publish a public developer API; this profile is an API Evangelist network company record. Generated from the API Evangelist catalog — Pitch publishes no llms.txt of its own.
+
+## Company
+- [Website](https://pitch.com): Pitch collaborative presentation product
+- [Pricing](https://pitch.com/pricing): Plans and pricing
+- [Blog](https://pitch.com/blog): Pitch company blog
+- [Help Center](https://help.pitch.com): Product help and support
+- [Status](https://status.pitch.com): Service status page
+- [Integrations](https://pitch.com/integrations): In-product integrations (Calendly, Figma, HubSpot, Notion, Slack, Unsplash)
+
+## Security
+- [Security Policy](https://pitch.com/security-policy): Security overview
+- [Security Disclosure Policy](https://pitch.com/security-disclosure-policy): Responsible disclosure
+- [security.txt](https://pitch.com/.well-known/security.txt): RFC 9116 security contact
+
+## Legal
+- [Terms of Use](https://pitch.com/terms-of-use)
+- [Privacy Policy](https://pitch.com/privacy-policy)
+- [Legal Notice](https://pitch.com/legal-notice)
+
+## Note
+No public developer API, OpenAPI specification, SDK, or MCP server was found for Pitch as of 2026-07-20.
