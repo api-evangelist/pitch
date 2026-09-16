@@ -38,7 +38,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-13'
 tags:
 - Company
 - Business Applications
@@ -86,6 +86,12 @@ common:
   url: well-known/pitch-well-known.yml
 - type: LLMsTxt
   url: llms/pitch-llms.txt
+- name: MCP Server
+  url: https://mcp.pitch.com/mcp
+  type: MCPServer
+- name: MCP Documentation
+  url: https://help.pitch.com/en/articles/16849368-an-overview-of-pitch-s-mcp
+  type: MCPDocumentation
 x-enrichment:
   date: '2026-07-20'
   status: enriched
