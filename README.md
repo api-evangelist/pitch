@@ -64,6 +64,95 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pitch is a company surfaced as a portfolio company of index-ventures and added to the API Evangelist network as a stub for enrichment. Sector: business-applications. This profile is a lead awaiting the enrichment pipeline.
+Pitch is a collaborative presentation software company (pitch.com) that builds a fast, web-based tool for teams to create, share, and present decks together in real time, with templates, brand controls, live collaboration, analytics, and in-product integrations. Backed by Index Ventures and tracked in the API Evangelist network. As of this profile Pitch publishes no public developer API, OpenAPI specification, SDK, or MCP server; enrichment here captured its published security and identity surface.
 
-Backed by: index-ventures — http://pitch.com
+**Areas:** Company · Business Applications · Presentations · Productivity · Collaboration · Software-as-a-Service
+
+## Pitch on APIs.io
+
+Everything profiled for Pitch is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pitch/](https://apis.io/providers/pitch/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [MCP Server](https://apis.io/servers/pitch/mcp-server/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pitch Domain Security](https://apis.io/security/pitch/pitch-domain-security/)
+- [Pitch Vulnerability Disclosure](https://apis.io/security/pitch/pitch-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pitch.com)
+- [Pricing](https://pitch.com/pricing)
+- [Support](https://help.pitch.com)
+- [Blog](https://pitch.com/blog)
+- [Security](https://pitch.com/security-disclosure-policy)
+- [Terms of service](https://pitch.com/terms-of-use)
+- [Privacy policy](https://pitch.com/privacy-policy)
+- [Status](https://status.pitch.com)
+
+## API Evangelist rating
+
+**Kin Score 17.7** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 31.6 |
+
+**Agent readiness 12.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pitch/](https://apis.io/providers/pitch/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pitch: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pitch/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
